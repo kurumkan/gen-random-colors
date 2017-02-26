@@ -2,13 +2,13 @@
 
 ##Installation
 
-`npm install --save gen-colors`
+`npm install --save gen-random-colors`
 
 ##How to use
 Six levels of brightness from 0 to 5, 0 being the darkest
 
 ```
-import generateColor from 'gen-color';
+import {generateColor} from 'gen-random-colors';
 
 var brightness=3;
 var color = generateColor(brightness);

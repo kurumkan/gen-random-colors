@@ -1,5 +1,5 @@
 {
-  "name": "gen-colors",
+  "name": "gen-random-colors",
   "version": "1.0.0",
   "description": "Random Color Generator With Contolled Brightness",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kurumkan/gen-colors.git"
+    "url": "git+https://github.com/kurumkan/gen-random-colors.git"
   },
   "keywords": [
     "random",
@@ -22,7 +22,7 @@
   "author": "Artur Arsalanov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kurumkan/gen-colors/issues"
+    "url": "https://github.com/kurumkan/gen-random-colors/issues"
   },
-  "homepage": "https://github.com/kurumkan/gen-colors#readme"
+  "homepage": "https://github.com/kurumkan/gen-random-colors#readme"
 }
