@@ -1,0 +1,28 @@
+{
+  "name": "gen-colors",
+  "version": "1.0.0",
+  "description": "Random Color Generator With Contolled Brightness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurumkan/gen-colors.git"
+  },
+  "keywords": [
+    "random",
+    "colors",
+    "random",
+    "color",
+    "generator",
+    "random",
+    "color"
+  ],
+  "author": "Artur Arsalanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurumkan/gen-colors/issues"
+  },
+  "homepage": "https://github.com/kurumkan/gen-colors#readme"
+}
